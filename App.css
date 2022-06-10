@@ -1,0 +1,29 @@
+body {
+    background-color: #e7bff354;
+}
+
+#btn {
+    background-color: green;
+    color: #333;
+    border-radius: 24px;
+    font-weight: 600;
+}
+
+#btn:hover {
+    background-color: #c1e0f1b6;
+    color: #000;
+    border-color: #adf9e7;
+
+}
+
+#words {
+    font-weight: 350;
+    font-size: 30px;
+    /* color: #333; */
+}
+
+#reading {
+    font-weight: 350;
+    font-size: 20px;
+    /* color: #333; */
+}
